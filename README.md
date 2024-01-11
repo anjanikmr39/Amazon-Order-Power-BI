@@ -75,6 +75,4 @@ Delivery Time: Indicates the duration between order placement and delivery, help
 For More Information
 Please review the full analysis in the [View This](https://app.powerbi.com/view?r=eyJrIjoiYmYxNDM2NjQtODA0Zi00Nzg4LWI5ODktNGY3MzhmYTM3ODE4IiwidCI6ImMzYTFlMjAyLWJiOWYtNDBhNy1iY2U1LTViZmYxZGEzMzJiYSJ9&embedImagePlaceholder=true).
 
-For any additional questions, feel free to email me at [business.trushalpatel@gmail.com](mailto:business.trushalpatel@gmail.com)
-
 
